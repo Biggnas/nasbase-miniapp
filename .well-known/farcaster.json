@@ -1,0 +1,7 @@
+{
+  "version": "1",
+  "name": "NasBase Runner",
+  "icon": "https://YOUR-VERCEL-URL/icon.png",
+  "description": "A simple runner game built for Base Mini Apps.",
+  "url": "https://YOUR-VERCEL-URL"
+}
