@@ -1,0 +1,1 @@
+console.log("Mini app loaded. Add your game code here.");
